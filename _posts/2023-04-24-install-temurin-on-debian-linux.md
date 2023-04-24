@@ -14,7 +14,7 @@ Eclipse Temurin DEB packages are now available for installing on your Debian Lin
 apt-get install -y wget apt-transport-https gnupg
 ```
 
-## Add Keyring
+## Add Key and Repository, then Update
 ```bash
 wget -O - https://packages.adoptium.net/artifactory/api/gpg/key/public | apt-key add -
 ```
