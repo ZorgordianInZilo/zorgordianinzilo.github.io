@@ -1,11 +1,11 @@
 ---
-title: Test Post
+title: How to install Temurin JDK on Debian Linux
 categories: [Linux, Debian, Temurin, JDK]
 tags: [Linux, Debian, JDK, Adoptium, Java 17, Java 19]
-published: true
+#published: false
 ---
 
-# How to install Temurin on Debian Linux
+# How to install Temurin JDK on Debian Linux
 
 Eclipse Temurin DEB packages are now available for installing on your Debian Linux distribution.
 
