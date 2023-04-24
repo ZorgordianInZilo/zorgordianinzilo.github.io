@@ -31,8 +31,8 @@ url: 'https://zorgordianinzilo.github.io'
 github:
   username: zorgordianinzilo # change to your github username
 
-twitter:
-  username: ZiloZorg # change to your twitter username
+#twitter:
+#  username: ZiloZorg # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,13 +41,13 @@ social:
   email: Zorgordian@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ZiloZorg # change to your twitter homepage
+    # - https://twitter.com/ZiloZorg # change to your twitter homepage
     - https://github.com/zorgordianinzilo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: dDHmGoKD1SyXinkLDBhiQgv7uCbcMMS2GukZv2AjjZw # fill in to your verification string
+google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
