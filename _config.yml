@@ -18,9 +18,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zorgordian | Home Lab # the main title
+title: The Ramblings of an Alien # the main title
 
-tagline: A Place for my Guides # it will display as the sub-title
+tagline: A Place for Guides, Tips and Codes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Home Lab Guides for personal use and others.
