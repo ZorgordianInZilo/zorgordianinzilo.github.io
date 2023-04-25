@@ -1,4 +1,5 @@
 ---
+layout: post
 title: HP iLo License Activation Keys
 categories: [Servers, HP, iLo, Licenses]
 tags: [Servers,Home Lab, HP, iLo, Licenses, Free, Activate]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to install Temurin JDK on Debian Linux
 categories: [Linux, Debian, Temurin, JDK]
 tags: [Linux, Debian, JDK, Adoptium, Java 17, Java 19]
